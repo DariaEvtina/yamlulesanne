@@ -1,0 +1,26 @@
+cars:
+  car:
+    -
+      Title: Car 1
+      Nimetus: Lexus
+      Mudel: IS 220
+      Year: 2008
+      Kaigukast: mehaanika
+    -
+      Title: Car 2
+      Nimetus: MINI
+      Mudel: Cooper
+      Year: 2011
+      Kaigukast: mehaanika
+    -
+      Title: Car 3
+      Nimetus: Mitsubishi
+      Mudel: Lancer
+      Year: 2008
+      Kaigukast: automaat
+    -
+      Title: Car 4
+      Nimetus: McLaren
+      Mudel: 600LT
+      Year: 2020
+      Kaigukast: automaat
